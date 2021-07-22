@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/google-keeper/static/js/main.3ada7eed.chunk.js",
-    "main.js.map": "/google-keeper/static/js/main.3ada7eed.chunk.js.map",
-    "runtime-main.js": "/google-keeper/static/js/runtime-main.3f119501.js",
-    "runtime-main.js.map": "/google-keeper/static/js/runtime-main.3f119501.js.map",
-    "static/js/2.6fd84c36.chunk.js": "/google-keeper/static/js/2.6fd84c36.chunk.js",
-    "static/js/2.6fd84c36.chunk.js.map": "/google-keeper/static/js/2.6fd84c36.chunk.js.map",
-    "index.html": "/google-keeper/index.html",
-    "static/js/2.6fd84c36.chunk.js.LICENSE.txt": "/google-keeper/static/js/2.6fd84c36.chunk.js.LICENSE.txt"
+    "main.js": "/google-keeper-react/static/js/main.23c33e1b.chunk.js",
+    "main.js.map": "/google-keeper-react/static/js/main.23c33e1b.chunk.js.map",
+    "runtime-main.js": "/google-keeper-react/static/js/runtime-main.d98fc231.js",
+    "runtime-main.js.map": "/google-keeper-react/static/js/runtime-main.d98fc231.js.map",
+    "static/js/2.6fd84c36.chunk.js": "/google-keeper-react/static/js/2.6fd84c36.chunk.js",
+    "static/js/2.6fd84c36.chunk.js.map": "/google-keeper-react/static/js/2.6fd84c36.chunk.js.map",
+    "index.html": "/google-keeper-react/index.html",
+    "static/js/2.6fd84c36.chunk.js.LICENSE.txt": "/google-keeper-react/static/js/2.6fd84c36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f119501.js",
+    "static/js/runtime-main.d98fc231.js",
     "static/js/2.6fd84c36.chunk.js",
-    "static/js/main.3ada7eed.chunk.js"
+    "static/js/main.23c33e1b.chunk.js"
   ]
 }
